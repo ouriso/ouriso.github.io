@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>room
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-        <loc>https://erblack.me/</loc>
+        <loc>https://ouriso.art/</loc>
    </url>
     <url>
-        <loc>https://erblack.me/ersketch/</loc>
+        <loc>https://ouriso.art/wishlist/</loc>
     </url>
     <url>
-        <loc>https://erblack.me/wishlist/</loc>
-    </url>
-    <url>
-        <loc>https://erblack.me/wishlist/stuff/</loc>
+        <loc>https://ouriso.art/wishlist/stuff/</loc>
     </url>
 </urlset> 
