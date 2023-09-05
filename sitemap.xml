@@ -2,12 +2,12 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-        <loc>https://ouriso.art/</loc>
+        <loc>http://ouriso.art/</loc>
    </url>
     <url>
-        <loc>https://ouriso.art/wishlist/</loc>
+        <loc>http://ouriso.art/wishlist/</loc>
     </url>
     <url>
-        <loc>https://ouriso.art/wishlist/stuff/</loc>
+        <loc>http://ouriso.art/wishlist/stuff/</loc>
     </url>
 </urlset> 
