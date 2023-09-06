@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ouriso.art/sitemap.xml
+Sitemap: http://ouriso.art/sitemap.xml
