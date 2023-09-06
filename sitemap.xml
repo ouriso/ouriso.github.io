@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>room
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-        <loc>http://ouriso.art/</loc>
+        <loc>https://ouriso.art/</loc>
    </url>
     <url>
-        <loc>http://ouriso.art/wishlist/</loc>
+        <loc>https://ouriso.art/wishlist/</loc>
     </url>
     <url>
-        <loc>http://ouriso.art/wishlist/stuff/</loc>
+        <loc>https://ouriso.art/wishlist/stuff/</loc>
     </url>
 </urlset> 
